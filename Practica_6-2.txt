@@ -1,0 +1,6 @@
+/(?<!\w)[Rr]egex(?!\w)/
+
+////////////Codigo de ayuda//////////////
+ regex, [regex] regextativo Regex. "Regex", elregexno, nosirvregex, (Regex)  regex.
+[Regex], sionoregex, "regex", regex,titativo si sirve este regex
+
